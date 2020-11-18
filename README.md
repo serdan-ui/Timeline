@@ -49,16 +49,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Bootstrap-vue](https://bootstrap-vue.org/docs/) - El framework web usado
 * [npm](https://www.npmjs.com/) - Manejador de dependencias
 * [vis](https://visjs.org/) - Libreria js para hacer lineas de tiempo
 * [moment](https://momentjs.com/) - Libreria js para manejar fechas y horas
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Sergio Daniel Rosales** - *Trabajo Inicial* - (https://github.com/sergiorosales9)
 * **Sergio Daniel Rosales** - *Documentación* - (https://github.com/sergiorosales9)

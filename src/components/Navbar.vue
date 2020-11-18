@@ -17,7 +17,7 @@
                 v-model="name"
               ></b-form-input>
             </b-col>
-            <b-col sm="2" class="text-left pr-md-3 pl-md-1">
+            <b-col sm="2" class="text-left pr-md-2 pl-md-0">
               <label>Fecha</label>
               <b-input-group size="sm">
                 <b-form-datepicker
